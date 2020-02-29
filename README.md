@@ -1,1 +1,1 @@
-# Study-resources-for-the-AZ-104-Microsoft-Certified-Azure-Administrator
+A collection of Azure Exam Resources
